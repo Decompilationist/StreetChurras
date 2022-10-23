@@ -6,9 +6,6 @@
 	:heavy_check_mark: Sprint de React Native SENAI Suíço :heavy_check_mark:
 </h4>
 
-<p align="center">
-    <img alt="GamaHacker" title="#GamaHacker" src="./hacker.svg" width="50px" />
-</p>
 
 ## Sobre o Projeto 💻
 
