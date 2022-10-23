@@ -39,5 +39,5 @@ $ git clone https://github.com/trezeguetdev/StreetChurras.git
 
 ### Criado por:
 
-- Equipe Gama Academy && [@michellehorn](https://github.com/michellehorn)
+- Equipe Street Dev && [@gustavoalves](https://gustavoalves.ml)
 
