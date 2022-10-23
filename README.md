@@ -29,8 +29,8 @@ Para agilizar o desenvolvimento, criamos também um wireframe para você seguir 
 
 ```bash
 
-# Clone this repository
-$ git clone https://github.com/PedroSato/gama-academy-calculadora-churrasco
+# Clonar o repositório
+$ git clone https://github.com/trezeguetdev/StreetChurras.git
 ```
 
 ### Pré-requisitos :large_orange_diamond:
