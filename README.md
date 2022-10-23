@@ -24,6 +24,8 @@ Após terminar a instalação, inicie o aplicativo com:
 ## Observações 📌
 
 Na protipagem temos a lógica do cálculo criada e os campos de input definidos, podendo você fazer alterações nos preços dos produtos.
+
+
 Para agilizar o desenvolvimento, criamos estilos reutilizáveis na pasta *constants* dentro da *src*.
 
 <p align="center">
@@ -38,7 +40,8 @@ $ git clone https://github.com/trezeguetdev/StreetChurras.git
 
 ### Pré-requisitos :large_orange_diamond:
 
-- Editor de texto de sua preferência. (Aqui na Gama utilizamos o [VSCode](https://code.visualstudio.com))
+- Editor de texto de sua preferência. (Aqui utilizamos o [VSCode](https://code.visualstudio.com))
+- [NPM](https://www.npmjs.com/) && React Native
 
 ### Criado por:
 
