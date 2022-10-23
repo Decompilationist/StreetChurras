@@ -23,11 +23,11 @@ Após terminar a instalação, inicie o aplicativo com:
 
 ## Observações 📌
 
-No template temos a lógica do calculo criada e os campos definidos, mas sinta-se a vontade para fazer alterações :D
-Para agilizar o desenvolvimento, criamos também um wireframe para você seguir e não se preocupar com design. Os dados de cores, tamanhos e fontes constam [nesse arquivo](https://xd.adobe.com/view/dbdc850b-ce84-4227-67b7-ac0974fda9a6-aded/).
+Na protipagem temos a lógica do cálculo criada e os campos de input definidos, podendo você fazer alterações nos preços dos produtos.
+Para agilizar o desenvolvimento, criamos estilos reutilizáveis na pasta *constants* dentro da *src*.
 
 <p align="center">
-    <img alt="XD" title="#BarbecueCalculator" src="./barbecue-calculator-xd.jpeg" width="500px" />
+    <img alt="XD" title="#Prototipagem" src="./barbecue-calculator-xd.jpeg" width="500px" />
 </p>
 
 ```bash
