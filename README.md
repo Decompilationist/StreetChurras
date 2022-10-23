@@ -41,7 +41,7 @@ $ git clone https://github.com/trezeguetdev/StreetChurras.git
 ### Pré-requisitos :large_orange_diamond:
 
 - Editor de texto de sua preferência. (Aqui utilizamos o [VSCode](https://code.visualstudio.com))
-- [NPM](https://www.npmjs.com/) && React Native
+- [NPM](https://www.npmjs.com/) && [React Native]⚛️(https://reactnative.dev/)
 
 ### Criado por:
 
