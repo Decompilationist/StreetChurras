@@ -13,7 +13,13 @@ Este projeto é destinado aos alunes da stack Hacker do Gama Experience. O proje
 
 ## Começando 🏁
 
-Para conseguir utilizar o template basta fazer o download do projeto ou clonar este repositório utilizando o Git em seu terminal.
+Para conseguir utilizar aplicativo, basta clonar o repositório e dentro do diretório instale as dependências com o seguinte comando em seu terminal:
+
+### `npm install`
+
+Após terminar a instalação, inicie o aplicativo com:
+
+### `npm start`
 
 ## Observações 📌
 
