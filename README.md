@@ -3,13 +3,13 @@
 </h1>
 
 <h4 align="center"> 
-	:heavy_check_mark: Sprint de React Native SENAI Suíço :heavy_check_mark:
+	:heavy_check_mark: Projeto React Native SENAI Suíço :heavy_check_mark:
 </h4>
 
 
 ## Sobre o Projeto 💻
 
-Este projeto é destinado aos alunes da stack Hacker do Gama Experience. O projeto visa a criação de uma calculadora de churrasco que utilizará o número de pessoas para o resultado da quantidade necessária de carne, acompanhamentos e cerveja 🍺.
+Este projeto é pertinente a uma sprint da Escola SENAI Suíco-Brasileira. O projeto visa a criação de um aplicativo que contém foco em uma *calculadora de churrasco*, que a mesma utilizará o número de pessoas escolhidos para o resultado da quantidade necessária de carne, acompanhamentos e cerveja 🍺.
 
 ## Começando 🏁
 
