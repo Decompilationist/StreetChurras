@@ -23,14 +23,11 @@ Após terminar a instalação, inicie o aplicativo com:
 
 ## Observações 📌
 
-Na protipagem temos a lógica do cálculo criada e os campos de input definidos, podendo você fazer alterações nos preços dos produtos.
+Na [protipagem](https://www.figma.com/file/HMnsPsgZYC8ioiHXFI8HXE/Untitled?node-id=0%3A1) temos a lógica do cálculo criada e os campos de input definidos, podendo você fazer alterações nos preços dos produtos.
 
 
 Para agilizar o desenvolvimento, criamos estilos reutilizáveis na pasta *constants* dentro da *src*.
 
-<p align="center">
-    <img alt="XD" title="#Prototipagem" src="./barbecue-calculator-xd.jpeg" width="500px" />
-</p>
 
 ```bash
 
