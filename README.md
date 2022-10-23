@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GamaAcademy" title="#StreeT Dev" src="./src/icons/steeticon.svg" width="250px" />
+    <img alt="GamaAcademy" title="#StreeT Dev" src="./src/icons/streeticon.svg" width="250px" />
 </h1>
 
 <h4 align="center"> 
