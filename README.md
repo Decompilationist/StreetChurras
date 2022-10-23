@@ -29,6 +29,8 @@ Na [protipagem](https://www.figma.com/file/HMnsPsgZYC8ioiHXFI8HXE/Untitled?node-
 Para agilizar o desenvolvimento, criamos estilos reutilizáveis na pasta *constants* dentro da *src*.
 
 
+
+
 ```bash
 
 # Clonar o repositório
