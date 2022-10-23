@@ -39,5 +39,5 @@ $ git clone https://github.com/trezeguetdev/StreetChurras.git
 
 ### Criado por:
 
-- Equipe Street Dev && [@gustavoalves](https://gustavoalves.ml)
+- Equipe Street Dev && [@gustavoalves](http://gustavoalves.ml)
 
