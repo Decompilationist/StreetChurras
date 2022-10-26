@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Image, ScrollView, Text, View } from 'react-native';
+import { Image, ScrollView, Text, View, StyleSheet } from 'react-native';
 import { gStyle, images } from '../constants';
 
 const headerImage = __DEV__ ? 'rabbitDev' : 'rabbitProd';
@@ -45,6 +45,8 @@ Localizacao.navigationOptions = ({ theme }) => {
     )
   };
 };
+
+
 
 /*
 // shoutout @notbrent: https://snack.expo.io/H105kxsG7

@@ -6,6 +6,22 @@ import fonts from './fonts';
 export default {
   activeOpacity: 0.7,
 
+  title: {
+    fontSize: 25,
+  },
+
+ listinha: {
+  fontSize: 20,
+  listStyleType: "none",
+  position: "relative",
+  marginBottom: 0
+ },
+ produtos: {
+  marginBottom: 6,
+  fontFamily: "roboto",
+},
+
+
   // containers
   // ///////////////////////////////////////////////////////////////////////////
   container: {
@@ -52,6 +68,7 @@ export default {
     textAlign: 'center'
   },
 
+
   // text
   // ///////////////////////////////////////////////////////////////////////////
   text: {
@@ -66,6 +83,10 @@ export default {
   },
   textPacifico: {
     fontFamily: fonts.pacifico,
+    fontSize: 20
+  },
+  textRoboto: {
+    fontFamily: fonts.roboto,
     fontSize: 20
   },
 
