@@ -20,15 +20,15 @@ const MultiBase = ({ navigation }) => {
 
       <Touch
         onPress={() => navigation.navigate('CarneBovina')}
-        text="Carne Bovina"
+        text="Carne Bovina 🐮"
       />
       <Touch
         onPress={() => navigation.navigate('CarneSuina')}
-        text="Carne Suína"
+        text="Carne Suína 🐷"
       />
       <Touch
         onPress={() => navigation.navigate('Frango')}
-        text="Frango"
+        text="Frango 🐔"
       />
 
 <Text style={gStyle.text[theme]}>{`\n\n\nDicas para deixar o churrasco ainda mais gostoso:`}</Text>     

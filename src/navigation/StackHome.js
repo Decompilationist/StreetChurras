@@ -1,8 +1,14 @@
 import * as React from 'react';
 import { createStackNavigator } from '@react-navigation/stack';
+import globalStyles from '../constants/globalStyles';
 
 // screens
 import HomeScreen from '../screens/Home';
+import Produtos from '../screens/Produto';
+
+const title = {
+  font: 'pacifico',
+}
 
 const Stack = createStackNavigator();
 
@@ -17,5 +23,13 @@ export default () => (
         title: 'StreeT Churras'
       }}
     />
+    <Stack.Screen
+      name="Produtos"
+      component={Produtos}
+    />
   </Stack.Navigator>
+
+  
 );
+
+

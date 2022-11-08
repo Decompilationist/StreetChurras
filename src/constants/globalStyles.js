@@ -27,12 +27,13 @@ export default {
   container: {
     dark: {
       backgroundColor: colors.darkHighlightColor,
-      flex: 1
+      flex: 1,
+      textAlign: 'center',
+      fontFamily: 'Verdana'
     },
     light: {
       backgroundColor: colors.white,
       flex: 1
-      
     }
   },
   contentContainer: {
@@ -66,7 +67,7 @@ export default {
   },
   btnText: {
     color: colors.white,
-    textAlign: 'center'
+
   },
 
 
@@ -104,13 +105,6 @@ export default {
   spacer64: {
     height: 64,
     width: '100%'
-  },
-
-  container: {
-    textAlign: 'center', 
-    fontFamily: 'Verdana'
-  },
-
-
-  
+  }
 };
+

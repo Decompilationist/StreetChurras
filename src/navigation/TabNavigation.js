@@ -65,14 +65,14 @@ export default () => {
           tabBarLabel: 'Receitas'
         }}
       />
-      <Tab.Screen
+      {/* <Tab.Screen
         name="StackStats"
         component={StackProdutos}
         options={{
           tabBarIcon: ({ focused }) => <SvgProdutos active={focused} />,
           tabBarLabel: 'Produtos'
         }}
-      />
+      /> */}
        <Tab.Screen
         name="StackContato"
         component={StackContato}
