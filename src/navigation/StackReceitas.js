@@ -7,9 +7,11 @@ import CarneBovina from '../screens/CarneBovina';
 import CarneSuina from '../screens/CarneSuina';
 import Frango from '../screens/Frango';
 import Dicas from '../screens/Dicas';
+import globalStyles from '../constants/globalStyles';
 
 // components
 import NavigationBack from '../components/NavigationBack';
+
 
 const Stack = createStackNavigator();
 
@@ -31,7 +33,7 @@ export default () => (
         headerLeft: () => <NavigationBack />,
         headerTintColor: '#fff',
         headerStyle: { backgroundColor: '#5e260f' },
-        title: 'Receitas de Carne Bovina'
+        title: 'Receitas de Carne Bovina 🐮'
       }}
     />
     <Stack.Screen
@@ -41,7 +43,7 @@ export default () => (
         headerLeft: () => <NavigationBack />,
         headerTintColor: '#fff',
         headerStyle: { backgroundColor: '#5e260f' },
-        title: 'Receitas de Carne Suína'
+        title: 'Receitas de Carne Suína 🐷'
       }}
     />
     <Stack.Screen
@@ -51,7 +53,7 @@ export default () => (
         headerLeft: () => <NavigationBack />,
         headerTintColor: '#fff',
         headerStyle: { backgroundColor: '#5e260f' },
-        title: 'Receitas de Frango'
+        title: 'Receitas de Frango 🐔'
       }}
     />
      <Stack.Screen
@@ -61,7 +63,7 @@ export default () => (
         headerLeft: () => <NavigationBack />,
         headerTintColor: '#fff',
         headerStyle: { backgroundColor: '#5e260f' },
-        title: 'Dicas'
+        title: 'Dicas '
       }}
     />
   </Stack.Navigator>

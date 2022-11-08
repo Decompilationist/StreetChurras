@@ -7,7 +7,6 @@
     "privacy": "public",
     "version": "0.0.2",
     "platforms": ["android", "ios", "web"],
-    "githubUrl": "https://github.com/calebnance/expo-multi-screen-starter",
     "orientation": "portrait",
     "primaryColor": "#2a2a2a",
     "icon": "src/assets/icon.png",

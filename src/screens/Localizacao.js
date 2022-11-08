@@ -1,6 +1,7 @@
 import * as React from 'react';
 import { Image, ScrollView, Text, View, StyleSheet } from 'react-native';
 import { gStyle, images } from '../constants';
+import MapView from 'react-native-maps';
 
 const headerImage = __DEV__ ? 'rabbitDev' : 'rabbitProd';
 
@@ -8,18 +9,9 @@ const Localizacao = () => {
   const theme = 'light';
 
   return (
-    <ScrollView
-      contentContainerStyle={gStyle.contentContainer}
-      style={gStyle.container[theme]}
-    >
-      {/* <Text style={gStyle.text[theme]}></Text> */}
-
-      <View style={gStyle.spacer16} />
-
-      <Text style={[gStyle.text[theme], gStyle.textPacifico]}>
-        Localização do Churrasco
-      </Text>
-    </ScrollView>
+    <View>
+      <MapView />
+    </View>
   );
 };
 
